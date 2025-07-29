@@ -41,6 +41,13 @@ To calculate descriptive statistics and detect delays in order deliveries, using
 - **West region** and **Home category** show the **longest delays**
 - **East region** performs **best overall**
 
+  ##  Recommendations
+
+- Focus on improving **Home** and **Electronics** categories
+- **West region** needs urgent review due to consistent delays
+- **East region** sets the benchmark for fast delivery
+
+---
 
 ##  File Descriptions
 
@@ -60,13 +67,5 @@ To calculate descriptive statistics and detect delays in order deliveries, using
   - SLA compliance rates
   - Avg delivery time by region and category
   - Outlier visualization (via boxplots)
-
-##  Recommendations
-
-- Focus on improving **Home** and **Electronics** categories
-- **West region** needs urgent review due to consistent delays
-- **East region** sets the benchmark for fast delivery
-
----
 
 

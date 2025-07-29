@@ -68,7 +68,12 @@ To calculate descriptive statistics and detect delays in order deliveries, using
   - Avg delivery time by region and category
   - Outlier visualization (via boxplots)
 
+## Tableau dashboard
 ![Tableau dashboard](DeliveryTimeDistribution.png)
+
+## Excel visualizations
 ![Exsel visualizations](EXCEL1.png)
+## Excel visualizations
 ![Exsel visualizations](EXCEL2.png)
+## Excel visualizations
 ![Exsel visualizations](Excel3.png)

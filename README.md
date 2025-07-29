@@ -1,4 +1,4 @@
-# Descriptive-Statistics-Analysis-Project-
+# Descriptive-Statistics-Analysis-Project (Excel, SQL, Tableau)
 #  Delivery Time Analysis Project
 
 This project analyzes delivery times by region and product category to uncover key patterns, delays, and performance issues in logistics.
@@ -72,8 +72,8 @@ To calculate descriptive statistics and detect delays in order deliveries, using
 ![Tableau dashboard](DeliveryTimeDistribution.png)
 
 ## Excel visualizations
-![Exsel visualizations](EXCEL1.png)
+![Excel visualizations](EXCEL1.png)
 ## Excel visualizations
-![Exsel visualizations](EXCEL2.png)
+![Excel visualizations](EXCEL2.png)
 ## Excel visualizations
-![Exsel visualizations](Excel3.png)
+![Excel visualizations](Excel3.png)

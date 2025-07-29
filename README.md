@@ -69,3 +69,6 @@ To calculate descriptive statistics and detect delays in order deliveries, using
   - Outlier visualization (via boxplots)
 
 [Tableau dashboar](DeliveryTimeDistribution.png)
+Esxel visualizations(EXCEL1.png)
+(EXCEL2.png)
+(Excel3.png)

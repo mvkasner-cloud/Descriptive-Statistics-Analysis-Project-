@@ -51,21 +51,20 @@ To calculate descriptive statistics and detect delays in order deliveries, using
 
 ##  File Descriptions
 
-- **Delivery_Stats_Analysis.sql**  
+- **DescrStat_DELIVERY_readyfor_Tableau.sql**  
   SQL code to clean data, compute stats, and perform grouped and SLA analysis
 
-- **delivery_data_problematic.xlsx**  
+- **delivery_data_problematic_MY.xlsx**  
   Excel workbook with:
   - Cleaned dataset
   - Summary statistics
   - Frequency distribution and visuals
   - Written summary: key findings & recommendations
 
-- **Delivery_Performance_Dashboard.twb**  
+- **Delivery_Delivery by Region_BoxPlot__6036.twb**  
   Tableau dashboard with:
   - Delivery performance overview
   - SLA compliance rates
   - Avg delivery time by region and category
   - Outlier visualization (via boxplots)
-
 

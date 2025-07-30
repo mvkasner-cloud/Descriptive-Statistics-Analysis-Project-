@@ -77,3 +77,7 @@ To calculate descriptive statistics and detect delays in order deliveries, using
 ![Excel visualizations](EXCEL2.png)
 ## Excel visualizations
 ![Excel visualizations](Excel3.png)
+
+## SQL reasults
+![SQL tables1](Delivery_SQL_Tables1.png)
+![SQL tables2](Delivery_SQL_Tables2.png)
